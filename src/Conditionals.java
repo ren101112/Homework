@@ -30,7 +30,7 @@ public class Conditionals {
         } else if (randomInt == 8) {
             System.out.println("try again.");
         } else {
-            System.out.println("Absolutely not.");
+            System.out.println("Absolute not.");
         }
     }
 
